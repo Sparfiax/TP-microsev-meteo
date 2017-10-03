@@ -1,0 +1,2 @@
+Get vols en tapant l'url on obtient l'ensemble des données présente dans la table ce qui correspond à tout les vols de vélo qui ont été enregistrés.
+post_vols en utilisant postman on insère ainsi les données dans la table vol, possibilité d'ajouter une interface de manière très simple et être plus intuitif.
